@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/List_of_USA_presidents/static/css/main.073c9b0a.css",
+    "main.js": "/List_of_USA_presidents/static/js/main.e2d39dea.js",
+    "static/js/787.28cb0dcd.chunk.js": "/List_of_USA_presidents/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/List_of_USA_presidents/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/List_of_USA_presidents/index.html",
+    "main.073c9b0a.css.map": "/List_of_USA_presidents/static/css/main.073c9b0a.css.map",
+    "main.e2d39dea.js.map": "/List_of_USA_presidents/static/js/main.e2d39dea.js.map",
+    "787.28cb0dcd.chunk.js.map": "/List_of_USA_presidents/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e2d39dea.js"
+  ]
+}
